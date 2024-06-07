@@ -1,5 +1,5 @@
 # Teapot
-Martin Newell's Teapot in OpenSCAD
+Martin [Newell's Teapot](https://en.wikipedia.org/wiki/Utah_teapot) in OpenSCAD
 
 ![](teapot.png)
 
